@@ -6,7 +6,7 @@ Useful legend:
 * **imdb top movies {year}.xlsx** - Sample generated list
 * **imdb-top-movies.py** - Python script
 
-Originally inspired from: [Nishant Sahoo on Medium](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
+Originally inspired from: [Nishant Sahoo on Medium](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)  
 <sup>_Stay safe, stay sane, stay humble._</sup>
     
 **Created by**: Hardo      
